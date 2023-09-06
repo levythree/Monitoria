@@ -3,7 +3,7 @@ const objeto = {
     propriedade: "propriedade",
 
     metodo: function() {
-        // corpo da função
+        // corpo do método
     }
 
     // outra sintaxe possível
